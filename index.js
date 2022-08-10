@@ -10,4 +10,7 @@ let dogName = document.querySelectorAll('.dog-name')
 h1.style.textAlign = "left"
 
 
+let fooTer = document.querySelectorAll('.footer')
+fooTer.style.color = "red"
+
 // Select some elements...
