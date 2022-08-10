@@ -6,5 +6,8 @@ for(let i = 0; i < dogImages.length; i++){
 	dogImages[i].style.borderRadius = '50px'
 }
 
+let dogName = document.querySelectorAll('.dog-name')
+h1.style.textAlign = "left"
+
 
 // Select some elements...
