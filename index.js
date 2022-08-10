@@ -7,7 +7,7 @@ for(let i = 0; i < dogImages.length; i++){
 }
 
 let dogName = document.querySelectorAll('.dog-name')
-h1.style.textAlign = 'left'
+dogName.style.textAlign = 'left'
 
 
 let fooTer = document.querySelectorAll('.footer')
