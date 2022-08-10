@@ -11,6 +11,7 @@ h1.style.textAlign = 'left'
 
 
 let fooTer = document.querySelectorAll('.footer')
-footer.style.color = 'red'
+footer.style.borderStyle = 'solid'
+
 
 // Select some elements...
